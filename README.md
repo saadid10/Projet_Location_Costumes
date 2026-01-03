@@ -1,9 +1,9 @@
-# 🎭 Costume Rental Application
+#  Costume Rental Application
 
 ## Description du Projet
 Application complète de gestion de location de costumes, comprenant une application mobile native (Android Java) et un backend robuste (Laravel API).
 
-## 📂 Structure du Dépôt
+##  Structure du Dépôt
 
 ### 1. `backend/` (Laravel API)
 Le serveur backend gérant la logique métier, l'authentification et la base de données.
@@ -29,11 +29,11 @@ L'application principale développée en Java natif sous Android Studio.
 ### 3. `mobile_app/` (Version Flutter - POC)
 Une preuve de concept (POC) réalisée en Flutter pour comparer les performances avec la version native.
 
-## 📸 Aperçu de l'Interface
+##  Aperçu de l'Interface
 
-## 📸 Aperçu de l'Interface
+##  Aperçu de l'Interface
 
-### 🔐 Authentification
+### Authentification
 | Accueil | Accès Admin | Accès Client |
 |---------|-------------|--------------|
 | ![Accueil](screenshots/page%201.jpeg) | ![Admin Login](screenshots/Admin%20access.jpeg) | ![Client Login](screenshots/Client%20access.jpeg) |
@@ -53,9 +53,10 @@ Une preuve de concept (POC) réalisée en Flutter pour comparer les performances
 | ![Costumes](screenshots/View%20costumes.jpeg) | ![Clients](screenshots/view%20clients.jpeg) | ![Reservations](screenshots/view%20reservations.jpeg) |
 
 
-## 👥 Auteur
-- [Ton Nom Ici]
-- Groupe : [Ton Groupe]
+##  Auteur
+- [Saad-Eddine ID HAISSOUN]
+- [Saif-Eddine JABELLAH]
+- Groupe : [10]
 
-## 📝 Licence
+##  Licence
 Projet réalisé dans le cadre du module Mobile/Web 2025.
