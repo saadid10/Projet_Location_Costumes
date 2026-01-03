@@ -59,4 +59,4 @@ Une preuve de concept (POC) réalisée en Flutter pour comparer les performances
 - Groupe : [10]
 
 ##  Licence
-Projet réalisé dans le cadre du module Mobile/Web 2025.
+Projet réalisé dans le cadre du Developpement Mobile.
