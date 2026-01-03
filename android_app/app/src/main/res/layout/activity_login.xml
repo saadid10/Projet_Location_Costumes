@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="32dp"
+    android:background="@color/white">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Costume Rental"
+        android:textSize="28sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginBottom="48dp"/>
+
+    <EditText
+        android:id="@+id/emailInput"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:hint="Email"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gray_text"
+        android:inputType="textEmailAddress"
+        android:backgroundTint="@color/black"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/passwordInput"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:hint="Password"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gray_text"
+        android:inputType="textPassword"
+        android:backgroundTint="@color/black"
+        android:layout_marginBottom="32dp"/>
+
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:text="Log In"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/button_glossy"
+        android:textSize="18sp"
+        android:textAllCaps="false"/>
+
+</LinearLayout>

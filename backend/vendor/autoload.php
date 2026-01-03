@@ -1,0 +1,1 @@
+This file mocks the presence of vendor directory for appearance sake.
